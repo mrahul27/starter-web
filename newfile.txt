@@ -1,0 +1,4 @@
+
+
+to check if git commit works.
+if git commit can put the file directly to git local repo, without being added to staging area first via git add .
