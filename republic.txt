@@ -4,3 +4,4 @@ India's Replublic day Jan 26th .
 Time now 12:01 PM afternoon
 at Chennai
 
+just editing the same file to check tracked files cmd git-lsfiles and if git commit -am "" cmd works without git add .
