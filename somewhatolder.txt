@@ -1,0 +1,6 @@
+
+
+to check if git commit works.
+if git commit can put the file directly to git local repo, without being added to staging area first via git add .
+
+UAE is United Arab emirates which consists of 7 emirates. Abu dhabi is the capital of UAE and their currency is Dhiram AED
